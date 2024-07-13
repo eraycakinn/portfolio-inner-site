@@ -24,10 +24,10 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
             <ResumeDownload />
             <br />
             <div className="text-block">
-                <h2>henryheffernan.com</h2>
+                <h2>eraycakin.com</h2>
                 <br />
                 <p>
-                    henryheffernan.com is my portfolio website, and also the
+                    eraycakin.com is my portfolio website, and also the
                     website you are on right now. This project was an absolute
                     joy to make and challenged me both technically and
                     creatively. Early in 2022, I knew I wanted to make an
@@ -57,7 +57,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://henryheffernan.vercel.app/"
+                        href="https://changeit/"
                     >
                         here
                     </a>{' '}
@@ -73,29 +73,19 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://henryheffernan.com"
+                            href="https://eraycakin.com"
                         >
                             <p>
-                                <b>[3D Site]</b> - henryheffernan.com
+                                <b>[3D Site]</b> - eraycakin.com
                             </p>
                         </a>
                     </li>
-                    <li>
+                    
+                   {/*  <li>
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://henryheffernan.vercel.app/"
-                        >
-                            <p>
-                                <b>[OS Site]</b> - henryheffernan.vercel.app
-                            </p>
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://github.com/henryjeff/portfolio-website"
+                            href="https://github.com/eraycakinn/portfolio-website"
                         >
                             <p>
                                 <b>[GitHub]</b> - 3D Site Repository
@@ -112,7 +102,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                                 <b>[GitHub]</b> - OS Site Repository
                             </p>
                         </a>
-                    </li>
+                    </li> */}
                 </ul>
                 <p>
                     I'm skipping over a lot of details in exchange for brevity,
@@ -122,9 +112,9 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://twitter.com/henryheffernan"
+                        href="https://twitter.com/erayckn"
                     >
-                        @henryheffernan
+                        @erayckn
                     </a>
                 </p>
             </div>

@@ -27,8 +27,8 @@ const About: React.FC<AboutProps> = (props) => {
                     building it. If you have any questions or comments, feel
                     free to contact me using{' '}
                     <Link to="/contact">this form</Link> or shoot me an email at{' '}
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:erycakin@gmail.com">
+                        erycakin@gmail.com
                     </a>
                 </p>
             </div>
@@ -137,9 +137,9 @@ const About: React.FC<AboutProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://twitter.com/henryheffernan"
+                        href="https://twitter.com/erayckn"
                     >
-                        @henryheffernan
+                        @erayckn
                     </a>{' '}
                     Good luck and have fun!
                 </p>
@@ -149,8 +149,8 @@ const About: React.FC<AboutProps> = (props) => {
                     them. You can reach me through the{' '}
                     <Link to="/contact">contact page</Link> or shoot me an email
                     at{' '}
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:erycakin@gmail.com">
+                    erycakin@gmail.com
                     </a>
                 </p>
             </div>
